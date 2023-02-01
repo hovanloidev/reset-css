@@ -1,0 +1,4 @@
+<!-- Import in your HTML <head> -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css">
+/* Import in your CSS */
+@import url("https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css");
